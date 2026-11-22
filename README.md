@@ -2,7 +2,7 @@
 
 **Name:** Muhammad Abdullah  **Roll No:** 22i-1721  **Section:** A
 
-**GitHub:** `ADD LINK`  **Deployment:** `ADD LINK`  **Final commit:** `ADD HASH`
+**GitHub:** `https://github.com/TRex098/22i-1721-mealbox`  **Deployment:** `ADD LINK`  **Final commit:** `ADD HASH`
 
 ## Description
 A React website for a fictional meal-box business serving university students in Islamabad
